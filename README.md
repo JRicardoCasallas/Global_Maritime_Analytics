@@ -25,5 +25,5 @@ Se diseñó e implementó un **Modelo Estrella (Star Schema)** riguroso para gar
 - **Excel**: Fuente transaccional operativa.
 - **Power BI Desktop**: Modelado relacional, DAX y visualización de datos.
 ## 📄 Documentación Completa
-Puedes consultar el [Manual Técnico y de Usuario en PDF](Global_Maritime_Analytics.pdf) para conocer a detalle la arquitectura, el diccionario de datos y la guía de operación del sistema.
+Puedes consultar el [Manual Técnico y de Usuario en PDF](Manual_Tecnico_Global_Maritime_Analytics.pdf) para conocer a detalle la arquitectura, el diccionario de datos y la guía de operación del sistema.
 
