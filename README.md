@@ -1,7 +1,7 @@
-# 🚢 Dashboard Logístico y Modelo de Datos - NAVEMAR S.A.S.
+# 🚢 Dashboard Logístico y Modelo de Datos -![alt text](image.png).
 
 ## 📋 Descripción del Proyecto
-Solución analítica y de Business Intelligence desarrollada para optimizar la visualización y el seguimiento de operaciones marítimas, control de fletes, rutas y asignación de buques para la empresa **NAVEMAR S.A.S.**
+Solución analítica y de Business Intelligence desarrollada para optimizar la visualización y el seguimiento de operaciones marítimas, control de fletes, rutas y asignación de buques para la empresa **Global_Maritime_Analytics**
 
 El proyecto implementa un flujo automatizado de datos desde bases relacionales hasta la capa de visualización ejecutiva.
 
@@ -25,5 +25,5 @@ Se diseñó e implementó un **Modelo Estrella (Star Schema)** riguroso para gar
 - **Excel**: Fuente transaccional operativa.
 - **Power BI Desktop**: Modelado relacional, DAX y visualización de datos.
 ## 📄 Documentación Completa
-Puedes consultar el [Manual Técnico y de Usuario en PDF](Manual_Tecnico_Navemar.pdf) para conocer a detalle la arquitectura, el diccionario de datos y la guía de operación del sistema.
+Puedes consultar el [Manual Técnico y de Usuario en PDF](Global_Maritime_Analytics.pdf) para conocer a detalle la arquitectura, el diccionario de datos y la guía de operación del sistema.
 

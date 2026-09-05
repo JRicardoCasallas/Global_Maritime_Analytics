@@ -1,5 +1,5 @@
 -- ========================================================
--- PROYECTO: Maritime Analytics Pro - NAVEMAR S.A.S. (Modelo BI)
+-- PROYECTO: Global_Maritime_Analytics. (Modelo BI)
 -- ========================================================
 
 -- DIMENSIÓN 1: Buques (Flota)

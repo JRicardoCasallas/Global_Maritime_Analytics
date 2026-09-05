@@ -5,7 +5,7 @@ pd.set_option('display.width', 1000)
 pd.set_option('display.max_colwidth', None)
 
 print("========================================================")
-print(" PROYECTO: Maritime Analytics Pro - NAVEMAR S.A.S. (Python)")
+print(" PROYECTO: Global_Maritime_Analytics. (Python)")
 print("========================================================\n")
 
 # 1. CREACIÓN DE LAS 4 TABLAS DE DIMENSIÓN
