@@ -1,4 +1,4 @@
-# 🚢 Dashboard Logístico y Modelo de Datos -![alt text](image.png).
+# 🚢 Dashboard Logístico y Modelo de Datos.
 
 ## 📋 Descripción del Proyecto
 Solución analítica y de Business Intelligence desarrollada para optimizar la visualización y el seguimiento de operaciones marítimas, control de fletes, rutas y asignación de buques para la empresa **Global_Maritime_Analytics**
